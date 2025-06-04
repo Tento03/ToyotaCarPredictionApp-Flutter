@@ -9,7 +9,7 @@ class Infopage extends StatelessWidget {
       appBar: AppBar(
         title: const Text(
           'About This App',
-          style: TextStyle(fontWeight: FontWeight.w500),
+          style: TextStyle(fontWeight: FontWeight.w500 ),
         ),
         backgroundColor: Colors.blueGrey,
       ),
